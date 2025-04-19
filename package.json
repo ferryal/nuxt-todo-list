@@ -18,11 +18,19 @@
     "@nuxt/scripts": "^0.11.6",
     "@nuxt/test-utils": "^3.17.2",
     "@nuxt/ui": "^3.0.2",
+    "@pinia/nuxt": "^0.11.0",
+    "@tanstack/react-table": "^8.21.3",
+    "@tanstack/vue-query": "^5.74.5",
+    "@tanstack/vue-table": "^8.21.3",
     "@unhead/vue": "^2.0.8",
     "eslint": "^9.24.0",
     "nuxt": "^3.16.2",
+    "pinia": "^3.0.2",
     "typescript": "^5.8.3",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.10"
   }
 }
